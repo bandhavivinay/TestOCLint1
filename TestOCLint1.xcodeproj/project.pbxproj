@@ -13,6 +13,7 @@
 		B13085F3197F653A00093A77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B13085F1197F653A00093A77 /* Main.storyboard */; };
 		B13085F5197F653A00093A77 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B13085F4197F653A00093A77 /* Images.xcassets */; };
 		B1308601197F653A00093A77 /* TestOCLint1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1308600197F653A00093A77 /* TestOCLint1Tests.m */; };
+		B130860B197F670500093A77 /* sonar-project.properties in Resources */ = {isa = PBXBuildFile; fileRef = B130860A197F670500093A77 /* sonar-project.properties */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		B13085FA197F653A00093A77 /* TestOCLint1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestOCLint1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B13085FF197F653A00093A77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1308600197F653A00093A77 /* TestOCLint1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestOCLint1Tests.m; sourceTree = "<group>"; };
+		B130860A197F670500093A77 /* sonar-project.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "sonar-project.properties"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 		B13085DB197F653A00093A77 = {
 			isa = PBXGroup;
 			children = (
+				B130860A197F670500093A77 /* sonar-project.properties */,
 				B13085E6197F653A00093A77 /* TestOCLint1 */,
 				B13085FD197F653A00093A77 /* TestOCLint1Tests */,
 				B13085E5197F653A00093A77 /* Products */,
@@ -196,6 +199,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B130860B197F670500093A77 /* sonar-project.properties in Resources */,
 				B13085F3197F653A00093A77 /* Main.storyboard in Resources */,
 				B13085F5197F653A00093A77 /* Images.xcassets in Resources */,
 			);
@@ -404,6 +408,7 @@
 				B1308606197F653A00093A77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B1308607197F653A00093A77 /* Build configuration list for PBXNativeTarget "TestOCLint1Tests" */ = {
 			isa = XCConfigurationList;
@@ -412,6 +417,7 @@
 				B1308609197F653A00093A77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
