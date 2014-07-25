@@ -14,7 +14,7 @@
 		B13085F5197F653A00093A77 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B13085F4197F653A00093A77 /* Images.xcassets */; };
 		B1308601197F653A00093A77 /* TestOCLint1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = B1308600197F653A00093A77 /* TestOCLint1Tests.m */; };
 		B130860B197F670500093A77 /* sonar-project.properties in Resources */ = {isa = PBXBuildFile; fileRef = B130860A197F670500093A77 /* sonar-project.properties */; };
-		B130860D197F703000093A77 /* run-sonar.sh in Resources */ = {isa = PBXBuildFile; fileRef = B130860C197F703000093A77 /* run-sonar.sh */; };
+		B1DB146B1982390D00EC79C4 /* run-sonar.sh in Resources */ = {isa = PBXBuildFile; fileRef = B1DB146A1982390D00EC79C4 /* run-sonar.sh */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -41,7 +41,7 @@
 		B13085FF197F653A00093A77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B1308600197F653A00093A77 /* TestOCLint1Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestOCLint1Tests.m; sourceTree = "<group>"; };
 		B130860A197F670500093A77 /* sonar-project.properties */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "sonar-project.properties"; sourceTree = "<group>"; };
-		B130860C197F703000093A77 /* run-sonar.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "run-sonar.sh"; sourceTree = "<group>"; };
+		B1DB146A1982390D00EC79C4 /* run-sonar.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = "run-sonar.sh"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +65,7 @@
 		B13085DB197F653A00093A77 = {
 			isa = PBXGroup;
 			children = (
-				B130860C197F703000093A77 /* run-sonar.sh */,
+				B1DB146A1982390D00EC79C4 /* run-sonar.sh */,
 				B130860A197F670500093A77 /* sonar-project.properties */,
 				B13085E6197F653A00093A77 /* TestOCLint1 */,
 				B13085FD197F653A00093A77 /* TestOCLint1Tests */,
@@ -204,7 +204,7 @@
 			files = (
 				B130860B197F670500093A77 /* sonar-project.properties in Resources */,
 				B13085F3197F653A00093A77 /* Main.storyboard in Resources */,
-				B130860D197F703000093A77 /* run-sonar.sh in Resources */,
+				B1DB146B1982390D00EC79C4 /* run-sonar.sh in Resources */,
 				B13085F5197F653A00093A77 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
