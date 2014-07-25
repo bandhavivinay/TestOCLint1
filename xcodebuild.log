@@ -1,6 +1,0 @@
-=== BUILD TARGET TestOCLint1 OF PROJECT TestOCLint1 WITH THE DEFAULT CONFIGURATION (Release) ===
-
-Check dependencies
-Code Sign error: No provisioning profiles found: No non–expired provisioning profiles were found.
-CodeSign error: code signing is required for product type 'Application' in SDK 'iOS 8.0'
-
