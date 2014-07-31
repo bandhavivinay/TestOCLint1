@@ -345,6 +345,7 @@
 				INFOPLIST_FILE = TestOCLint1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "BD3EE263-7E71-4DCA-9021-48088640B706";
 			};
 			name = Debug;
 		};
@@ -356,6 +357,7 @@
 				INFOPLIST_FILE = TestOCLint1/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "BD3EE263-7E71-4DCA-9021-48088640B706";
 			};
 			name = Release;
 		};
